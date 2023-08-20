@@ -18,8 +18,6 @@ Welcome to the WeatherChamp Discord Bot repository! This bot provides real-time 
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
