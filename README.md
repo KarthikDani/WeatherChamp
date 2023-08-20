@@ -40,6 +40,7 @@ Welcome to the WeatherChamp Discord Bot repository! This bot provides real-time 
 1. Open config.py in a text editor.
 2. Replace DISCORD_TOKEN with your Discord bot token.
 3. Replace WEATHER_API_KEY with your OpenWeatherMap API key.
+4. Replace SERVER_ID value with your server_id after checking the bot in URL Generator in your Discord Developer application and granting read and send message 
 
 ## Usage
 
