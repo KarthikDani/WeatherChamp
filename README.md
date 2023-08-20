@@ -49,7 +49,6 @@ Welcome to the WeatherChamp Discord Bot repository! This bot provides real-time 
 
 ## Commands
 
-!weather <city>: Get the current weather for a city.
-!forecast <city>: Get a weather forecast for a city.
-!suggest <city>: Suggest similar city names.
-!get_weather <city>: Get the current weather for a city.
+- !get_weather <city>: Get the current weather for a city.
+- !forecast <city>: Get a weather forecast for a city.
+- !suggest <city>: Suggest similar city names.
